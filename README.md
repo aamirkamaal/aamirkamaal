@@ -4,11 +4,7 @@
 - 🧑‍🤝‍🧑 I'm looking to collaborate on Android projects
 - 👨‍💻 Experienced in developing Android applications with modern technologies.
 - 📱 Proficient in Kotlin and Java programming languages.
-- 🌐 Familiar with RESTful APIs and third-party libraries integration.
-- 🛠️ Skilled in using LiveData, ViewModel, and Room.
-- 🔍 Strong debugging and problem-solving skills.
-- 🎯 Passionate about staying updated with the latest trends in mobile development.
-- 📊 Strong understanding of app architecture patterns such as MVVM and MVP.
+
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aamirkamaal/)
@@ -20,4 +16,14 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## 📊 GitHub Stats:
+![Aamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamirkamaal&show_icons=true&theme=default)
+
+## 🔥 Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=aamirkamaal&theme=light&hide_border=true)](https://git.io/streak-stats)
+
+
+## 🔝 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirkamaal&layout=compact&theme=default)
 
