@@ -2,7 +2,7 @@
 
 - 💻 I'm currently learning Jetpack Compose
 - 🧑‍🤝‍🧑 I'm looking to collaborate on Android projects
-- 👨‍💻 Experienced in developing Android applications with modern technologies.
+- 👨‍💻 2+Y Experienced in developing Android applications
 - 📱 Proficient in Kotlin and Java programming languages.
 
   
